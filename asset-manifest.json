@@ -1,9 +1,10 @@
 {
   "main.css": "static/css/main.3ffc128b.css",
   "main.css.map": "static/css/main.3ffc128b.css.map",
-  "main.js": "static/js/main.a400cf1f.js",
-  "main.js.map": "static/js/main.a400cf1f.js.map",
+  "main.js": "static/js/main.e0f5cff5.js",
+  "main.js.map": "static/js/main.e0f5cff5.js.map",
   "static/media/365days.png": "static/media/365days.0ff019dc.png",
+  "static/media/365days_eng.png": "static/media/365days_eng.57c9fddd.png",
   "static/media/cd-icon-arrow.svg": "static/media/cd-icon-arrow.c0282874.svg",
   "static/media/cd-icon-budget.svg": "static/media/cd-icon-budget.a53790f7.svg",
   "static/media/cd-icon-check.svg": "static/media/cd-icon-check.6fdbfd94.svg",
@@ -23,5 +24,6 @@
   "static/media/icon1.png": "static/media/icon1.59568c63.png",
   "static/media/icon2.png": "static/media/icon2.0b16e60c.png",
   "static/media/logo.png": "static/media/logo.2ca1353b.png",
+  "static/media/logo_eng.png": "static/media/logo_eng.55ec963b.png",
   "static/media/tour-icon2.png": "static/media/tour-icon2.aa7c20fb.png"
 }
